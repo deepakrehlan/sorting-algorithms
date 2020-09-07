@@ -1,2 +1,3 @@
 # sorting-algorithms
-Repo for sample sorting algorithms
+Repository for sample sorting algorithms
+
